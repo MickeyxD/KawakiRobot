@@ -509,7 +509,7 @@ __help__ = """
 
 ✗ /strongwarn - `<on/yes/off/no> If set to on, exceeding the warn limit will result in a ban. Else, will just punch.`
 
-*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: BᴏᴛDᴜɴɪʏᴀ!*
+*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: RᴇɢᴀʟᴛᴏsBᴏᴛᴢ!*
 """
 
 __mod_name__ = "Wᴀʀɴɪɴɢ"
